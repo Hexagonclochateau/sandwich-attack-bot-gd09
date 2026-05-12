@@ -1,4 +1,4 @@
-# 
+# instant sandwich attack bot | new-token-detection + dex-sniping offers the most advanced sandwich attack bot, with new-token-detection and dex-sniping. Ideal for professional MEV
 
 
 
